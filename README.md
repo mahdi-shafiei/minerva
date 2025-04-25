@@ -28,7 +28,7 @@ In the `scripts` directory, we include execution scripts used to run optimisatio
 
 ## Data
 
-All HTE experimental data collected from experiments described in the manuscript are available in the `experimental_campaigns/experiments/publication/SURF_files` directory in the Simple User-Friendly Reaction Format (SURF).
+All HTE experimental data (1632 reactions) collected from experiments described in the manuscript are available in the `experimental_campaigns/experiments/publication/SURF_files` directory in the Simple User-Friendly Reaction Format (SURF).
 
 
 
